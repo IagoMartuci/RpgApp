@@ -1,0 +1,1 @@
+C:\DEV\MAUI\062023\AppRpgEtec\AppRpgEtec\AppRpgEtec.csproj;x64

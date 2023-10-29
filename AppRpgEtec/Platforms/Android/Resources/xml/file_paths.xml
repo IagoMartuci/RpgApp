@@ -1,0 +1,5 @@
+﻿<!-- Esta ação vai definir o nome padrão das pastas de imagens e vídeo do aplicativo. -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+	<external-files-path name="my_images" path="Pictures" />
+	<external-files-path name="my_movies" path="Movies" />
+</paths>
